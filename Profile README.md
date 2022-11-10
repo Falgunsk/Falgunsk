@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Falgunsk
+- 📖 Currently, I'm pursuing Bachelor of Technology in Computer Science Engineering branch.
 - 👀 I’m interested in photography 📸, Editing and Coding.
 - 🌱 I’m currently learning python.
 - 📫 You can reach me on instagram at @falgun.sk
